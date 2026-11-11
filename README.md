@@ -1,5 +1,9 @@
 # 💸 App de Organização de Finanças Pessoais do hinacio com Vibe Coding
 
+Projeto desenvolvido como exercício prático de Vibe Coding utilizando Lovable.
+
+O objetivo foi validar a construção de um MVP de gestão financeira pessoal baseado em IA conversacional, utilizando um PRD como ponto de partida para geração da aplicação.
+
 PRD Refinado no copilot web:
 
 ****markdown
@@ -577,5 +581,6 @@ Esperava poder interagir mais vezes gratuitamente com o lovable, mais a interaç
   
 ### O que aprendeu sobre conversar com IAs?
 Aprendi que é basicamente igual a conversar com uma pessoa, quanto mais detalhe e clareza você dá, melhor é a interação.
-  
+
+
 
